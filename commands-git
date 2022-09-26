@@ -3,5 +3,5 @@ git add + fichier
 git commit -m 'message' 
 git push
 git pull
-
-add
+git switch + nom_branch /ou checkout 
+git branch add-create-branch-command
