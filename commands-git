@@ -2,4 +2,5 @@ git clone + url du repo
 git add + fichier 
 git commit -m 'message' 
 git push
+git pull
 
